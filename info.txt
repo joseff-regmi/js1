@@ -1,0 +1,5 @@
+TAKST IS TO CREATE A CAROUSEL USING VENILLA JS------------
+
+
+1) First create necessary files(index.html, reset.css, index.js)
+2) Collect necessary files(images)
